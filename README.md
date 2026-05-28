@@ -19,9 +19,9 @@ To write a program to find the 1-norm, 2-norm and infinity norm of the matrix an
 
 ### 2-Norm of a Matrix
 
-<img width="761" height="327" alt="image" src="https://github.com/user-attachments/assets/8ea49b0b-1f1b-4a00-882b-57da3aa72821" />
+<img width="720" height="270" alt="image" src="https://github.com/user-attachments/assets/8bc93de6-aa42-4347-bda2-3f7230b25cb3" />
 
-<img width="754" height="329" alt="image" src="https://github.com/user-attachments/assets/59bd47f2-e135-4851-9c9d-827e29f055e7" />
+<img width="791" height="274" alt="image" src="https://github.com/user-attachments/assets/dd7c9627-55e5-4c7f-a574-c1407f9ea187" />
 
 ### Infinity Norm of a Matrix
 
